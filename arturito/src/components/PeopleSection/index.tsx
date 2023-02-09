@@ -20,6 +20,11 @@ const columns = [
     key: 'gender',
   },
   {
+    title: 'skin_color',
+    dataIndex: 'skin_color',
+    key: 'skin_color',
+  },
+  {
     title: 'hair_color',
     dataIndex: 'hair_color',
     key: 'hair_color',
